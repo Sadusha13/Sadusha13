@@ -73,55 +73,129 @@ technology-driven solutions that make a positive impact.
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  A collection of my projects showcasing my skills and passion for building real-world solutions.
+</p>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 MediLeave KDU
+<h3>🏥 MediLeave KDU</h3>
 
-Medical Leave Management System.
+<img src="assets/projects/medileave-kdu.png" width="100%" alt="MediLeave KDU Project"/>
 
+**Medical Leave Management System**
+
+A mobile application designed to simplify medical leave requests, approvals and management for KDU.
+
+**Technologies:**
 - Flutter
 - Spring Boot
 - PostgreSQL
 
+<a href="YOUR_MEDILEAVE_REPOSITORY_URL">🔗 View Repository</a>
+
 </td>
-<td width="50%">
 
-### ⚡ Green Energy Monitoring
+<td width="50%" valign="top">
 
-IoT-based energy monitoring platform.
+<h3>⚡ Green Energy Monitoring</h3>
 
+<img src="assets/projects/green-energy-monitoring.png" width="100%" alt="Green Energy Monitoring Project"/>
+
+**IoT-Based Energy Monitoring Platform**
+
+An IoT-based system for monitoring energy usage and visualizing data through a web dashboard.
+
+**Technologies:**
 - IoT
 - Firebase
 - Web Dashboard
+
+<a href="YOUR_GREEN_ENERGY_REPOSITORY_URL">🔗 View Repository</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📸 Smart Attendance System
+<h3>📸 Smart Attendance System</h3>
 
-Face recognition-based attendance system.
+<img src="assets/projects/smart-attendance.png" width="100%" alt="Smart Attendance Project"/>
 
+**Face Recognition-Based Attendance System**
+
+An automated attendance system using face recognition to record and manage attendance.
+
+**Technologies:**
 - Python
 - OpenCV
 - Firebase
 
+<a href="YOUR_SMART_ATTENDANCE_REPOSITORY_URL">🔗 View Repository</a>
+
 </td>
-<td width="50%">
 
-### 🏨 Vista Veranda
+<td width="50%" valign="top">
 
-Hotel Management System.
+<h3>🏨 Vista Veranda</h3>
 
+<img src="assets/projects/vista-veranda.png" width="100%" alt="Vista Veranda Project"/>
+
+**Hotel Management System**
+
+A hotel website and management system for showcasing hotel facilities and managing hotel-related information.
+
+**Technologies:**
 - HTML
 - CSS
 - Laravel
+- PHP
 
-[View Repository](https://github.com/Sadusha13/vista_veranda)
+<a href="https://github.com/Sadusha13/vista_veranda">🔗 View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏡 Kedalla Guest House POS</h3>
+
+<img src="assets/projects/kedalla-guest-house-pos.png" width="100%" alt="Kedalla Guest House POS Project"/>
+
+**Point of Sale & Guest House Management System**
+
+A POS solution for managing guest house bookings and daily operations, including billing and reports.
+
+**Technologies:**
+- React
+- Vite
+- Spring Boot
+- PostgreSQL
+
+<a href="YOUR_KEDALLA_POS_REPOSITORY_URL">🔗 View Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎓 School Management System</h3>
+
+<img src="assets/projects/school-management-system.png" width="100%" alt="School Management System Project"/>
+
+**Student & School Administration System**
+
+A system designed to manage student information and support school administration activities.
+
+**Technologies:**
+- Java
+- MySQL
+- MongoDB
+
+<a href="YOUR_SCHOOL_MANAGEMENT_REPOSITORY_URL">🔗 View Repository</a>
 
 </td>
 </tr>
