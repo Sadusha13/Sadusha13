@@ -100,11 +100,11 @@ A mobile application designed to simplify medical leave requests, approvals and 
 
 <td width="50%" valign="top">
 
-<h3>⚡ Green Energy Monitoring</h3>
+<h3>⚡ Smart Home Security System</h3>
 
 <img src="assets/projects/green-energy-monitoring.png" width="100%" alt="Green Energy Monitoring Project"/>
 
-**IoT-Based Energy Monitoring Platform**
+**IoT-Based Smart Home System**
 
 An IoT-based system for monitoring energy usage and visualizing data through a web dashboard.
 
@@ -121,11 +121,11 @@ An IoT-based system for monitoring energy usage and visualizing data through a w
 <tr>
 <td width="50%" valign="top">
 
-<h3>📸 Smart Attendance System</h3>
+<h3> Master Cafe </h3>
 
 <img src="assets/projects/smart-attendance.png" width="100%" alt="Smart Attendance Project"/>
 
-**Face Recognition-Based Attendance System**
+**Cafe web Platform**
 
 An automated attendance system using face recognition to record and manage attendance.
 
